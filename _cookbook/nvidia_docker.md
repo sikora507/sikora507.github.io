@@ -7,7 +7,7 @@ categories: nvidia driver linux
 One very convenient way to do experiments with Tensorflow or Keras on linux is to use docker with GPU support.
 
 Only prerequisite is to have
-[nVidia graphics driver installed](/cookbook/linux_nvidia_driver).
+[nvidia graphics driver installed](/cookbook/linux_nvidia_driver).
 
 For more details, you can check this website <https://www.tensorflow.org/install/docker> and follow other links up there, but here is the TLDR; version.
 
