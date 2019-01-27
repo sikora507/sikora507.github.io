@@ -15,7 +15,7 @@ $ sudo apt update
 ```
 
 2. Open "Software & Updates" and go to "Additional Drivers" tab:
-<img src="{{site.baseurl}}/assets/img/software_updates.png">
+![Software & Updates](/assets/img/software_updates.png)
 If you ran previous commands, you should be able to see a list of nVidia drivers.
 
 3. Click on the latest driver (in my case nvidia-driver-415 (open source))
