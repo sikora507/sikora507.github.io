@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Content
+Machine learning projects, experiments and other useful information.
