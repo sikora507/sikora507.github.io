@@ -2,7 +2,7 @@
 layout: post
 title:  "Install nvidia-docker"
 date:   2019-01-27 11:53:35 +0100
-categories: nvidia driver linux
+categories: nvidia docker linux
 ---
 One very convenient way to do experiments with Tensorflow or Keras on linux is to use docker with GPU support.
 
