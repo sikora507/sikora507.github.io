@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Set up jupyter notebook with docker-compose and tensorflow"
-date:   2019-01-26 11:53:35 +0100
+date:   2019-01-29 11:53:35 +0100
 categories: docker-compose tensorflow jupyter notebook
 ---
 Using single command to set up whole environment that is isolated and self-contained is very useful not only for machine learning projects.
