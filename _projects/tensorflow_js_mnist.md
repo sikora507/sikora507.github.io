@@ -5,7 +5,7 @@ date:   2019-02-02 11:53:35 +0100
 categories: tensorflowjs mnist image recognition keras python
 ---
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.14.2/dist/tf.min.js"></script>
-<h1>Tensorflow JS - live test drawing digits</h1>
+<h1>Tensorflow JS - recognizing drawn digits</h1>
 <p>Draw digits on the canvas and test tensorflow.js predictions in realtime.</p>
 <div class="row">
     <div class="col-sm-6"><canvas id="canv" width="28" height="28" style="width:280px; height:280px; border:1px solid black;"></canvas></div>
