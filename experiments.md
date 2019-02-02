@@ -5,4 +5,5 @@ permalink: /experiments/
 collection: experiments
 order: 2
 ---
-Machine learning related experiments.
+## Machine learning related experiments.
+Separated self-contained samples which can implemented as a part of bigger solution. 
