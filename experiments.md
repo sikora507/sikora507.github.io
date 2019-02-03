@@ -6,4 +6,4 @@ collection: experiments
 order: 2
 ---
 ## Machine learning related experiments.
-Separated self-contained samples which can implemented as a part of bigger solution. 
+Separated self-contained samples which can be implemented as a part of bigger solution. 
