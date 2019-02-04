@@ -144,11 +144,11 @@ X_centered[0:20,:]
 
 Use np.linalg.svd() to compute singular value decomposition components: (U, s, Vt)
 
-
 ```python
 U, s, Vt = np.linalg.svd(X_centered)
 ```
 
+These 3 matrices can fully reconstruct our mean-centered 3d data by applying multiplication U * s * Vt. Vt holds all the **principal components** we are looking for.
 
 ```python
 Vt
