@@ -264,7 +264,7 @@ print(pooled_grads)
     Tensor("Mean:0", shape=(512,), dtype=float32)
 
 
-https://www.tensorflow.org/api_docs/python/tf/keras/backend/function
+<https://www.tensorflow.org/api_docs/python/tf/keras/backend/function>
 "Function" lets us get custom tensors from the model. We don't want the model's final output but output from last convolution layer and pooled_grads.
 
 We can do that by passing to this function our model input tensor and array of our outputs which will be evaluated after calling this function.
