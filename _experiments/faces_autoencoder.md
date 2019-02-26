@@ -13,6 +13,9 @@ to generate faces in real time in the browser using TensorflowJS.
 This work is inspired by [carykh](https://github.com/carykh/alignedCelebFaces).
 This version is rewritten in jupyter notebook using Tensorflow's Keras for model training as it is easier to export keras model to TensorflowJS format.
 
+The purpose of this experiment is to create keras model of autoencoder that will be
+converted to TensorflowJS version which can be run in the browser.
+
 Github url: <https://github.com/sikora507/faces-autoencoder>
 
 To run this experiment, you need to have docker and docker-compose installed.
