@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Student portal the way it should be done</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/projects/other/student-portal/css/main.css" />
+  <script type="text/javascript" data-main="/projects/other/student-portal/js/main.js"
+    src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+</head>
+
+<body id="app" 
+  data-bind="event: {setContent: function(item, event){setContent(event.detail.name);}}">
+  <main-menu></main-menu>
+
+  <div class="container" data-bind="component: contentComponent"></div>
+
+  <nav class="navbar fixed-bottom navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="#">&copy;CAMS TRS 1999 - 2019</a>
+    </div>
+  </nav>
+</body>
+
+</html>
