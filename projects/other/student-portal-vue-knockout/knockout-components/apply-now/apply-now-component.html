@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="col-md-12">
+    <apply-now-navigation-bar params="prevActive: canGoToPrevStep, nextActive: canGoToNextStep"></apply-now-navigation-bar>
+  </div>
+  <div class="col-md-3">
+    <div class="nav flex-column nav-pills">
+      <!-- ko foreach: visibleComponents -->
+      <a class="nav-link mt-2 mb-2"
+        data-bind="text: name, css: {active: $parent.selectedSection() == $data}, click: function(){$parent.selectApplyNowSection($data);}"></a>
+      <!-- /ko-->
+    </div>
+  </div>
+  <div class="col-md-9" data-bind="component: selectedComponentName">
+  </div>
+  <div class="col-md-12">
+      <apply-now-navigation-bar params="prevActive: canGoToPrevStep, nextActive: canGoToNextStep"></apply-now-navigation-bar>
+  </div>
+</div>

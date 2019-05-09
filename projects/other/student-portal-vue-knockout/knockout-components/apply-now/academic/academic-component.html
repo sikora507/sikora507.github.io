@@ -1,0 +1,8 @@
+<div data-bind="'if': isVisible()">
+    Select academic level
+    <select class="custom-select"
+        data-bind="options: academicLevels, optionsText: 'name', optionsValue: 'value', value: selectedAcademicLevel"></select>
+</div>
+<div data-bind="'if': !isVisible()">
+    <loader></loader>
+</div>
