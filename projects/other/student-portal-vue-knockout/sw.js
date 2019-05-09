@@ -26,8 +26,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "0651003db5294a45b8f23c3db386a605"
   },
   {
-    "url": "/projects/other/student-portal-vue-knockout/_nuxt/97884878065ffa130655.js",
-    "revision": "f130cb3fdcd91f0c16f67dcfbba2a575"
+    "url": "/projects/other/student-portal-vue-knockout/_nuxt/a31c8a458ffbf7018ad8.js",
+    "revision": "aba514e5e484597e5657a34f9cd7ed4d"
   },
   {
     "url": "/projects/other/student-portal-vue-knockout/_nuxt/fd4ab1291c0653ccddfb.js",
