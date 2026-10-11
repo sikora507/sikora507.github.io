@@ -20,4 +20,6 @@ Explore my [[Machine Learning/index|Machine Learning]] projects, experiments, an
 
 [[Programming Rabbit Hole/index|Programming Rabbit Hole]] explores the layers beneath everyday code, including [[Programming Rabbit Hole/CSharp Hello World/index|C# Hello World: from source to assembly]].
 
+[[Aliens vs predator (alien demo 1999) on linux/index|Aliens versus Predator: running the 1999 Alien Demo on Linux]] documents the setup that got the original demo working on CachyOS.
+
 You can also find me on [LinkedIn](https://www.linkedin.com/in/tomasz-sikora-ab047a72/).
