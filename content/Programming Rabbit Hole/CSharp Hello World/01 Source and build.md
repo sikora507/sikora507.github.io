@@ -1,5 +1,5 @@
 ---
-title: "Source and build"
+title: "1. Source and build"
 ---
 
 What does a C# build actually produce? Let's examine the files in `bin/Debug/net10.0` after compiling Hello World on macOS.
