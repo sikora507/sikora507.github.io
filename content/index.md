@@ -18,4 +18,6 @@ while others are notes from ongoing experiments.
 
 Explore my [[Machine Learning/index|Machine Learning]] projects, experiments, and cookbook.
 
+[[Programming Rabbit Hole/index|Programming Rabbit Hole]] explores the layers beneath everyday code, including [[Programming Rabbit Hole/CSharp Hello World/index|C# Hello World: from source to assembly]].
+
 You can also find me on [LinkedIn](https://www.linkedin.com/in/tomasz-sikora-ab047a72/).

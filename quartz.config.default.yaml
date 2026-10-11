@@ -76,6 +76,7 @@ plugins:
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
+      openLinksInNewTab: true
       markdownLinkResolution: shortest
     order: 60
   - source: "@quartz-community/description"
