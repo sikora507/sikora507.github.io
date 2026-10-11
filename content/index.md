@@ -2,6 +2,10 @@
 title: Hi, I'm Tomasz
 ---
 
+I'm a .NET web developer. I started programming professionally in 2011,
+and machine learning has long been a personal interest — especially
+reinforcement learning and genetic algorithms.
+
 This is where I keep my notes on programming, Linux,
 and things I'm trying to understand or get working.
 
@@ -13,3 +17,5 @@ These notes grow over time. Some are complete guides,
 while others are notes from ongoing experiments.
 
 Explore my [[Machine Learning/index|Machine Learning]] projects, experiments, and cookbook.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/tomasz-sikora-ab047a72/).
